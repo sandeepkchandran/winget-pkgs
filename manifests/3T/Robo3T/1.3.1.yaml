@@ -4,7 +4,7 @@ Name: Robo3TNew
 Publisher: 3T Software Labs
 License: GPLv3
 LicenseUrl: https://github.com/Studio3T/robomongo/blob/master/COPYRIGHT
-Tags: robomongo, mongo, mongodb, database, tool,tool1,tool12,tool123
+Tags: robomongo, mongo, mongodb, database, tool
 Description: Robo 3T (formerly Robomongo *) is a shell-centric cross-platform MongoDB management tool. Unlike most other MongoDB admin UI tools, Robo 3T embeds the actual mongo shell in a tabbed interface with access to a shell command line as well as GUI interaction and more.shell-centric cross-platform MongoDB management tool
 Homepage: https://robomongo.org
 Installers:
